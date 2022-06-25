@@ -1,0 +1,20 @@
+(footprint "m2_Screw_Hole_EdgeCuts" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5DA73E67)
+  (descr "Mounting Hole 2.2mm, no annular, M2")
+  (tags "mounting hole 2.2mm no annular m2")
+  (attr exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "Ref**" (at 0 -3.2) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b656459b-45a8-4466-bf55-064e0e9bbeb4)
+  )
+  (fp_text value "Val**" (at 0 3.2) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 32d1147a-7743-4223-ab67-db4aaf57b1b9)
+  )
+  (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp f09822c0-7fac-44ce-a87f-366f7a49f250)
+  )
+  (fp_circle (center 0 0) (end 1.1 0) (layer "Edge.Cuts") (width 0.01) (fill none) (tstamp fed97871-4d75-4194-a3d3-5b61f2a948a5))
+)
