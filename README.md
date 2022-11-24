@@ -1,4 +1,6 @@
 # elephant42 FR4 plate
+<img src="img/mounting-example.jpg" width="80%">
+
 Original elephant42 (🐘42): https://github.com/illness072/elephant42
 
 ## Dependency
